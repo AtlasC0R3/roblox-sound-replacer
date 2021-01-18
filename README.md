@@ -1,3 +1,6 @@
+## NOTICE
+This repository is *(most likely)* outdated, [I have migrated this repository to Gitdab](https://gitdab.com/atlas_core/roblox-sound-replacer) since this was one of my more "miscellaneous" projects.
+
 # roblox-sound-replacer
 A Python side-project that I had that quickly put together that replaces Roblox's local sound assets.
 
